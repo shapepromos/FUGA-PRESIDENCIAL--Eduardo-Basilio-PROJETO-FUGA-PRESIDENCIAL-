@@ -1,0 +1,8 @@
+{
+  "name": "Fuga Presidencial",
+  "description": "Um jogo de sobrevivência em pixel art onde você controla Trump fugindo de Lula e Bolsonaro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
